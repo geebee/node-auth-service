@@ -1,0 +1,68 @@
+{"name":"auth","hostname":"metalgear.local","pid":30131,"level":50,"msg":"[405] OPTIONS to /auth","time":"2014-03-10T23:41:42.797Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11680,"level":50,"msg":"[405] OPTIONS to /auth","time":"2014-03-23T20:25:30.104Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11789,"level":50,"msg":"[405] OPTIONS to /auth","time":"2014-03-23T20:26:01.837Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:26:43.793Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:26:43.793Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:26:43.794Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:37.478Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:37.478Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:37.479Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:37.479Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:37.479Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:42.181Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:42.181Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:42.181Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:42.181Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:42.181Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:29:42.182Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:13.848Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:13.848Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:13.848Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:13.849Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:13.849Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:13.849Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:13.849Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.748Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.748Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.749Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.749Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.749Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.749Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.749Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:19.749Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.510Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.510Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.514Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.516Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.518Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.518Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.519Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.519Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:49.519Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.876Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.876Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.877Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.877Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.877Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.877Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.877Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.877Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.877Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:32:51.878Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.059Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.060Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.060Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.060Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.060Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.060Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.061Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.061Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.061Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.061Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":11829,"level":50,"msg":"[401] POST to /auth. Error was: No user matching submitted credentials found","time":"2014-03-30T22:33:24.062Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":51894,"level":50,"msg":"[404] GET to /","time":"2014-07-05T21:34:48.983Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":51894,"level":50,"msg":"[404] GET to /favicon.ico","time":"2014-07-05T21:34:49.094Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":51894,"level":50,"msg":"[405] GET to /auth","time":"2014-07-05T21:35:05.823Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":51894,"level":50,"msg":"[405] GET to /auth","time":"2014-07-05T21:35:17.154Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":51894,"level":50,"msg":"[404] GET to /","time":"2014-07-05T21:35:23.664Z","v":0}
+{"name":"auth","hostname":"metalgear.local","pid":51894,"level":50,"msg":"[404] GET to /favicon.ico","time":"2014-07-05T21:35:23.780Z","v":0}

@@ -1,0 +1,38 @@
+{
+    "name": "node-auth-service",
+    "preferGlobal": "false",
+    "version": "0.4.0",
+    "description": "Auth endpoint",
+    "contributors": [
+        {
+            "name": "Michael Goldberger",
+            "email": "mike.goldberger@gmail.com"
+        },
+        {
+            "name": "Dave Osborne",
+            "email": "osborne.dave@gmail.com"
+        }
+    ],
+    "scripts": {
+        "start": "node ./auth.js",
+        "test": "echo command to run when npm test is called",
+        "predeploy": "echo This will be run before deploying the app",
+        "postdeploy": "echo This will be run after deploying the app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geebee/zigswag.git"
+    },
+    "keywords": [
+        "authentication",
+        "auth"
+    ],
+    "dependencies" : {
+        "bcrypt"         :  ">=0.5",
+        "bunyan"         :  "*",
+        "mongoose"       :  ">=3.3"
+    },
+    "engines": {
+        "node": ">=0.8"
+    }
+}
